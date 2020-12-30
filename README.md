@@ -4,6 +4,8 @@
 
 Major: **Industrial Engineering**
 
+
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue)  ![MATLAB](https://img.shields.io/badge/MATLAB-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue)  ![R](https://img.shields.io/badge/R--programming-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue)
 <!--
 **HWANG593/HWANG593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
