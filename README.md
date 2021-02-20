@@ -9,7 +9,7 @@ Major: **Industrial Engineering**
 |Type|Date|Contents|Organization|
 |---|---|---|---|
 |**Education**|2014.03 ~ 2021.02|Industrial Engineering|Hongik University|
-|   |   |   |   |
+|**Education**|2020.12 ~ |Data Analasys|Multicampus|
 |   |   |   |   |
 
 
