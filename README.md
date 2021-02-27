@@ -9,6 +9,8 @@ Major: **Industrial Engineering**
 |Type|Date|Contents|Organization|
 |---|---|---|---|
 |**Education**|2014.03 ~ 2021.02|Industrial Engineering|Hongik University|
+|**Project**|2019.06 ~ 2019.08|Development of a Model for Predicting and Optimizing Renewable Energy Generation for Optimal Design and Operation of Virtual Power Plants|National Research Foundation of Korea|
+|**Project**|2019.11 ~ 2020.11|Development of an on-site customized service overview based on cloud computing for intelligent factory construction|Korea Technology & Information Promotion Agency|
 |**Education**|2020.12 ~ |Data Analasys|Multicampus|
 |   |   |   |   |
 
